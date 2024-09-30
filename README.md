@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Gokhale</h1>
-<h3 align="center">A passionate Full Stack Web and Mobile App developer from India</h3>
+<h3 align="center"> Full Stack Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakgokhale15&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakgokhale15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakgokhale15" alt="sarthakgokhale15" /></a> </p>
-
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **Full stack Web and App projects**
 
 - 📫 How to reach me **sarthakgokhale15@gmail.com**
 
